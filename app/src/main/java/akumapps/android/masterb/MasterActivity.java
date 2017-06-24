@@ -87,7 +87,7 @@ public class MasterActivity extends AppCompatActivity {
                                              if( montantI > 9999999 | montantI< 0)
                                              {
                                                 montantI = 0.0f;
-                                                 Toast.makeText(this,'Pas possible',Toast.LENGTH_LONG);
+                                                 //Toast.makeText(this,'Pas possible',Toast.LENGTH_LONG);
                                              }
 
                                              String montantTotalString=montantTotal.getText().toString();
