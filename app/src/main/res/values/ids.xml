@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="montant" type="id" />
+    <item name="buttonAdd" type="id" />
+    <item name="montantTotal" type="id" />
+    <item name="reset" type="id" />
+</resources>
