@@ -25,6 +25,7 @@ import java.io.PrintWriter;
 public class MasterActivity extends AppCompatActivity {
 
     private String fileName = "montantCourant";
+    private String fileName2 = "montantCourant";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
